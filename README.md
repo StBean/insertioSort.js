@@ -1,2 +1,2 @@
-# insertioSort.js
+# insertionSort.js
 InsertionSort written in JavaScript
